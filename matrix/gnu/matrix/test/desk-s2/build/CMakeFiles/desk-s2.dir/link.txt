@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdesk-s2.a CMakeFiles/desk-s2.dir/desk-s2.cpp.o
+/usr/bin/ranlib libdesk-s2.a

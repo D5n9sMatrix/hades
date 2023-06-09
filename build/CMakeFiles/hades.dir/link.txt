@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhades.a CMakeFiles/hades.dir/hades.cpp.o
+/usr/bin/ranlib libhades.a

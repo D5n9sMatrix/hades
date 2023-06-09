@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/freebasic.desk/hades/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/hades.dir/hades.cpp.o -c /home/denis/freebasic.desk/hades/hades.cpp",
+  "file": "/home/denis/freebasic.desk/hades/hades.cpp"
+}
+]

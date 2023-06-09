@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdesk-s3.a CMakeFiles/desk-s3.dir/desk-s3.cpp.o
+/usr/bin/ranlib libdesk-s3.a

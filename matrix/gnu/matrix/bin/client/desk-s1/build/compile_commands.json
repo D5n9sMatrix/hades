@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/freebasic.desk/desk-s1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/desk-s1.dir/desk-s1.cpp.o -c /home/denis/freebasic.desk/desk-s1/desk-s1.cpp",
+  "file": "/home/denis/freebasic.desk/desk-s1/desk-s1.cpp"
+}
+]
